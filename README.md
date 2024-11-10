@@ -16,4 +16,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tautik05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://leetcard.jacoblin.cool/Tautik?theme=nord&font=Noto%20Sans%20Duployan&ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
