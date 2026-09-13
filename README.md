@@ -4,7 +4,7 @@
 
 I'm a Computer Science Engineering student focused on building and deploying real-world **AI/ML systems**.
 
-My interests span **Machine Learning, Deep Learning, Computer Vision, Generative AI, RAG, and Agentic AI**. I enjoy working across the full ML engineering lifecycle — from data and model development to evaluation, backend integration, and deployment.
+My interests span **Machine Learning, Generative AI, RAG, and Agentic AI**. I enjoy working across the full ML engineering lifecycle — from data and model development to evaluation, backend integration, and deployment.
 
 Currently exploring **LLM applications, RAG systems, agentic workflows, and production-oriented AI engineering**.
 
@@ -58,10 +58,8 @@ Currently exploring **LLM applications, RAG systems, agentic workflows, and prod
 <p align="left">
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /></a>
 &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
 
-**FastAPI · Uvicorn · Pydantic · SQLAlchemy · Alembic · Docker**
+**FastAPI 
 
 ---
 
@@ -70,20 +68,8 @@ Currently exploring **LLM applications, RAG systems, agentic workflows, and prod
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-</p>
 
-**PostgreSQL · SQLite · Pinecone (Vector DB) · Supabase · Neon**
-
----
-
-### Tools
-
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
-
-**Git · GitHub · Docker · pytest · Jupyter · VS Code**
+**PostgreSQL · Pinecone (Vector DB)**
 
 ---
 
