@@ -56,20 +56,28 @@ Currently exploring **LLM applications, RAG systems, agentic workflows, and prod
 ### Generative AI
 
 <p align="left">
+
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langchain_icon.png" alt="LangChain" title="LangChain" width="36" height="36" />
+<img src="https://mintcdn.com/langchain-5e9cc07a/nQm-sjd_MByLhgeW/images/brand/langchain-icon.png?fit=max&auto=format&n=nQm-sjd_MByLhgeW&q=85&s=8b5f3c2f8c3c0c4e2b5d4b4c2c8e7e3f" alt="LangChain" title="LangChain" width="42" height="42" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/img/langgraph.png" alt="LangGraph" title="LangGraph" width="36" height="36" />
+<img src="https://mintcdn.com/langchain-5e9cc07a/nQm-sjd_MByLhgeW/images/brand/langgraph-icon.png?fit=max&auto=format&n=nQm-sjd_MByLhgeW&q=85&s=b997e1a7487d507a36556eedbfd99f81" alt="LangGraph" title="LangGraph" width="42" height="42" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/src/images/mcp.svg" alt="Model Context Protocol" title="Model Context Protocol" width="36" height="36" />
+<img src="https://cdn.simpleicons.org/modelcontextprotocol" alt="MCP" title="Model Context Protocol" width="42" height="42" />
 </a>
+
 </p>
 
-**LangChain · LangGraph · MCP**
+<p align="left">
+<strong>LangChain</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>LangGraph</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>MCP</strong>
+</p>
 
 ---
 
@@ -88,13 +96,16 @@ Currently exploring **LLM applications, RAG systems, agentic workflows, and prod
 ### Databases & Infrastructure
 
 <p align="left">
+
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/pinecone" alt="Pinecone" title="Pinecone" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pinecone/default.svg" alt="Pinecone" title="Pinecone" width="42" height="42" />
 </a>
+
 </p>
 
 **PostgreSQL · Pinecone (Vector DB)**
