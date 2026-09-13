@@ -9,7 +9,7 @@ My interests span **Machine Learning, Generative AI, RAG, and Agentic AI**. I en
 **I build AI applications spanning LLM systems, RAG pipelines, and agentic workflows, with a focus on evaluation, reliable architecture, backend integration, and deployment.**
 
 * 🌍 Based in India
-* 🖥️ Portfolio: [Portfolio](http://portfolio-tautiks-projects-de20d139.vercel.app)
+* 🖥️ Portfolio: [Portfolio](https://tautik.vercel.app/)
 * ✉️ Email: [tautiksinharoy@gmail.com](mailto:tautiksinharoy@gmail.com)
 * 💼 LinkedIn: [Tautik Sinha Roy](https://www.linkedin.com/in/tautik-sinha-roy-88908128a/)
 * 𝕏 X: [@roy_tautik](https://x.com/roy_tautik)
