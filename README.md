@@ -59,7 +59,7 @@ Currently exploring **LLM applications, RAG systems, agentic workflows, and prod
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /></a>
 &nbsp;
 
-**FastAPI 
+**FastAPI** 
 
 ---
 
@@ -70,42 +70,6 @@ Currently exploring **LLM applications, RAG systems, agentic workflows, and prod
 &nbsp;
 
 **PostgreSQL · Pinecone (Vector DB)**
-
----
-
-### Currently Exploring
-
-**Generative AI · Advanced RAG · Agentic AI · LLM Evaluation · AI System Design · Multimodal AI · Model Deployment**
-
----
-
-### Connect With Me
-
-<p align="left">
-<a href="https://github.com/Tautik05" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-
-<a href="https://x.com/roy_tautik" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X" title="X" />
-</picture>
-</a>
-
-<a href="https://www.linkedin.com/in/tautik-sinha-roy-88908128a/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-</p>
 
 ---
 
