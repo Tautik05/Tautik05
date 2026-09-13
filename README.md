@@ -6,7 +6,7 @@ I'm a Computer Science Engineering student focused on building and deploying rea
 
 My interests span **Machine Learning, Generative AI, RAG, and Agentic AI**. I enjoy working across the full ML engineering lifecycle — from data and model development to evaluation, backend integration, and deployment.
 
-Currently exploring **LLM applications, RAG systems, agentic workflows, and production-oriented AI engineering**.
+**I build AI applications spanning LLM systems, RAG pipelines, and agentic workflows, with a focus on evaluation, reliable architecture, backend integration, and deployment.**
 
 * 🌍 Based in India
 * 🖥️ Portfolio: [Portfolio](http://portfolio-tautiks-projects-de20d139.vercel.app)
